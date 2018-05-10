@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "basic_test_widget/extension": true
+  }
+}
