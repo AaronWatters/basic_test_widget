@@ -36,6 +36,8 @@ var HelloView = widgets.DOMWidgetView.extend({
         debugger;
         this.value_changed();
         this.model.on('change:value', this.value_changed, this);
+        this.model.set("rendered", true);
+        this.touch();
     },
 
     value_changed: function() {
