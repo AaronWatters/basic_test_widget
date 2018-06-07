@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AaronWatters/basic_test_widget/master)
+
 basic_test_widget
 ===============================
 
