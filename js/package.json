@@ -1,6 +1,6 @@
 {
   "name": "basic_test_widget",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Basic jupyter widget for testing.",
   "author": "Aaron Watters",
   "main": "lib/index.js",
@@ -29,7 +29,7 @@
     "rimraf": "^2.6.1"
   },
   "dependencies": {
-    "@jupyter-widgets/base": "^1.0.0",
+    "@jupyter-widgets/base": "^1.1 || ^2",
     "lodash": "^4.17.4"
   },
   "jupyterlab": {
